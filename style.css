@@ -1,0 +1,22 @@
+#body {
+  margin: 0px;
+}
+
+#all {
+  display: grid;
+  grid-template-columns: 100%;
+  grid-template-rows: 100vh;
+}
+
+#main {
+  gap: 10px;
+  background-color: aqua;
+}
+
+.divy {
+  width: 400;
+  height: 200;
+  background-color: bisque;
+  border: solid black 5px;
+  border-radius: 10px;
+}
